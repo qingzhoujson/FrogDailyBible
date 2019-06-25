@@ -1,0 +1,2 @@
+# FrogDailyBible
+We are an international community church. Every day, many people from different countries and different ethnic groups pray in the church outside and listen to the teachings. But the weight of the Bible books can't be afforded by some older believers, so we made new applications. They read the Bible directly on the mobile phone. The language is different, the race is different, but it is impossible to distinguish our beliefs.
